@@ -1,30 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>문래동 퀵서비스 | 24시 에이플러스 신속한 배송</title>
-  <link>https://munrae.8222quick.com/</link>
-  <description>영등포구 문래동 문래역 문래창작촌 24시 실시간 배차, 신속한 배송 원칙</description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 24 Feb 2026 14:00:00 +0900</pubDate>
-  <lastBuildDate>Tue, 24 Feb 2026 14:00:00 +0900</lastBuildDate>
-  <atom:link href="https://munrae.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
-
-  <item>
-    <title>문래동 퀵서비스 지식산업센터 및 창작촌 신속한 배송 안내</title>
-    <link>https://munrae.8222quick.com/index.html</link>
-    <description>문래동 전지역 오토바이, 다마스, 라보 퀵서비스. 기업 및 예술 구역 전담 신속한 배송 보장.</description>
-    <category>퀵서비스</category>
-    <pubDate>Tue, 24 Feb 2026 14:00:00 +0900</pubDate>
-    <guid>https://munrae.8222quick.com/index.html</guid>
-  </item>
-
-  <item>
-    <title>문래동 퀵서비스 요금표 및 영등포구 전지역 서비스 안내</title>
-    <link>https://munrae.8222quick.com/money.html</link>
-    <description>문래동 차종별 퀵서비스 요금 및 기업 법인 결제 시스템 안내</description>
-    <category>요금안내</category>
-    <pubDate>Tue, 24 Feb 2026 14:00:00 +0900</pubDate>
-    <guid>https://munrae.8222quick.com/money.html</guid>
-  </item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://munrae.8222quick.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://munrae.8222quick.com/index.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://munrae.8222quick.com/money.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
